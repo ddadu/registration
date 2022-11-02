@@ -1,0 +1,51 @@
+/*auth*/
+.auth-form-container {
+    width:300px;
+    min-height: 200px;
+    border: 2px solid rgb(138, 103, 196);
+    margin:auto;
+    padding: 15px;
+}
+.auth-form-container .text-input-label {
+    display: block;
+    margin-bottom: 5px;
+}
+.auth-form-container .text-input,
+.auth-form-container .locations {
+    height: 30px;
+    width: 100%;
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-color: rgb(233, 163, 174);
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.btn {
+    display: block;
+    font-size: 16px;
+    height: 35px;
+    text-align: center;
+}
+.btn-primary{
+    background-color: rgb(102, 102, 167);
+    color:white ;
+}
+.w-100 {
+    width: 100%;
+}
+.mb-15{
+    margin-bottom: 15px;
+}
+.btn-link {
+    text-decoration: none;
+    line-height: 35px;
+    color:blue
+}
+.btn-link:hover {
+    text-decoration: underline;
+}
+.sex-container{
+    display:inline-block;
+}
